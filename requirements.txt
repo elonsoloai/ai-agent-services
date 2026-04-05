@@ -1,0 +1,21 @@
+# Requirements for AI Agent Development
+
+# Core
+anthropic>=0.18.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Data processing
+pandas>=2.0.0
+requests>=2.31.0
+
+# Web automation
+beautifulsoup4>=4.12.0
+playwright>=1.40.0
+
+# Memory/State
+sqlite3  # built-in
+json  # built-in
+
+# Logging
+loguru>=0.7.0
