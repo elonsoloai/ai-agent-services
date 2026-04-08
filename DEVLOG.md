@@ -4,7 +4,7 @@
 
 ---
 
-## Week 1 (2026-04-03 to 2026-04-09)
+## Week 1 (2026-04-03 to 2026-04-09) ✅ COMPLETE
 
 ### What I Learned from Claude Code's Leaked System Prompt
 
@@ -37,11 +37,17 @@
 
 ---
 
-## Week 2 Preview
+## Week 2 (2026-04-10 to 2026-04-16) 🔄 IN PROGRESS
 
-- Building a demo AI agent (open source)
-- Case study: First client automation project
-- Deep dive: State management in AI agents
+### Day 1: Batch Code Push
+- Added 3 new AI agent tools
+- Published 2 new blog posts
+- Updated roadmap with completion status
+
+### Up Next
+- Demo video: AI agent in action
+- First client case study
+- Pricing calculator tool
 
 ---
 
